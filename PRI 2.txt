@@ -1,0 +1,9135 @@
+<p># តារាងជំរឿនស្ថិតិសាលារៀនចំណេះទូទៅសាធារណៈ ## ឆ្នាំសិក្សា ២០២៥-២០២៦ (ប__ឋមសិក្សា)</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<p>*ប្រកាសលេខ</p>
+			</td>
+			<td colspan="5">
+			<p>1121 អយក.ប្រក</p>
+			</td>
+			<td colspan="26">
+			<p>10 August 2020</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>*សូមអានសេចក្តីណែនាំមុននឹងបំពេញ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="24">
+			<p>*សូមផ្ញើទៅការិយាល័យអប់រំ យុវជន និងកីឡានៃរដ្ឋបាលស្រុក/ក្រុងវិញមុនថ្ងៃទី ១០-១១-២០២៥</p>
+			</td>
+			<td colspan="5">
+			<p>លេខកូដសាលារៀន៖</p>
+			</td>
+			<td colspan="5">
+			<p>01030401017</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>ប្រភេទសាលារៀន</p>
+			</td>
+			<td colspan="7">
+			<p>សាលារៀនចំណេះទូទៅ</p>
+			</td>
+			<td colspan="5">
+			<p>កម្រិតសាលាកុមារមេត្រី</p>
+			</td>
+			<td colspan="7">
+			<p>កម្រិតមធ្យម</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2" rowspan="2">
+			<p>UTM</p>
+			</td>
+			<td>
+			<p>x</p>
+			</td>
+			<td colspan="2" rowspan="2">
+			<p>48N</p>
+			</td>
+			<td colspan="5">
+			<p>328181</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>សាលាអនុវត្តកម្មវិធីផ្តល់អាហារតាមសាលារៀន៖</p>
+			</td>
+			<td colspan="3">
+			<p>ទេ</p>
+			</td>
+			<td colspan="3">
+			<p>ឧបត្ថមគាំទ្រដោយ៖</p>
+			</td>
+			<td colspan="7">
+			<p>ផ្សេងៗ&hellip;.......</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>y</p>
+			</td>
+			<td colspan="5">
+			<p>1515125</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>១. អត្តសញ្ញាណ និងព័ត៌មានសាវតារ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="13">
+			<p>១.(ក) នាយក/នាយិកាសាលាបឋមសិក្សា *(មិនមែននាយកកម្រង)</p>
+			</td>
+			<td rowspan="15">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="20">
+			<p>១.(ខ)សាលាបឋមសិក្សា</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ឈ្មោះជាអក្សរខ្មែរ</p>
+			</td>
+			<td colspan="6">
+			<p>សុខ សារើន</p>
+			</td>
+			<td colspan="7">
+			<p>ឈ្មោះសាលារៀន(បច្ចុប្បន្ន)</p>
+			</td>
+			<td colspan="13">
+			<p>សាលាបឋមសិក្សា រោគ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ឈ្មោះជាអក្សរពុម្ពឡាតាំង</p>
+			</td>
+			<td colspan="6">
+			<p>SOK SAROUEN</p>
+			</td>
+			<td colspan="7">
+			<p>ឈ្នោះសាលារៀន(ឆ្នាំមុន)</p>
+			</td>
+			<td colspan="13">
+			<p>សាលាបឋមសិក្សា រោគ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>អត្តលេខមន្ត្រីរាជការ</p>
+			</td>
+			<td colspan="6">
+			<p>2730200248</p>
+			</td>
+			<td colspan="7">
+			<p>ភូមិ</p>
+			</td>
+			<td colspan="13">
+			<p>រោគ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ថ្ងៃខែឆ្នាំកំណើត</p>
+			</td>
+			<td colspan="6">
+			<p>04 August 1973</p>
+			</td>
+			<td colspan="7">
+			<p>ឃុំ/សង្កាត់</p>
+			</td>
+			<td colspan="13">
+			<p>សា្ពនស្រែង</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ភេទ</p>
+			</td>
+			<td colspan="6">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="7">
+			<p>ក្រុង/ស្រុក/ខណ្ឌ</p>
+			</td>
+			<td colspan="13">
+			<p>ភ្នំស្រុក</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>កម្រិតវប្បធម៌ខ្ពស់បំផុត</p>
+			</td>
+			<td colspan="6">
+			<p>ក្នុងមធ្យមសិក្សាទុតិយភូមិ</p>
+			</td>
+			<td colspan="7">
+			<p>រាជធានី/ខេត្ត</p>
+			</td>
+			<td colspan="13">
+			<p>បន្ទាយមានជ័យ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>បើជានាយកជំនួស(សូមគូសរង្វង់)</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>ទីតាំងសាលារៀន</p>
+			</td>
+			<td colspan="13">
+			<p>តំបន់ជនបទ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ចំនួនឆ្នាំបម្រើការងារអប់រំ</p>
+			</td>
+			<td colspan="6">
+			<p>33 ឆ្នាំ</p>
+			</td>
+			<td colspan="7">
+			<p>ចំនួនវេនរៀន</p>
+			</td>
+			<td colspan="13">
+			<p>ពីរវេន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ចំនួនឆ្នាំបម្រើការងារជានាយក</p>
+			</td>
+			<td colspan="6">
+			<p>10 ឆ្នាំ</p>
+			</td>
+			<td colspan="14">
+			<p>មានថ្នាក់អនុវិទ្យាល័យដែលស្ថិតនៅក្នុងបឋមសិក្សា</p>
+			</td>
+			<td colspan="6">
+			<p>ទេ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ចំនួនម៉ោងបង្រៀនក្នុងមួយសប្តាហ៍</p>
+			</td>
+			<td colspan="6">
+			<p>30 ម៉ោង</p>
+			</td>
+			<td colspan="14">
+			<p>សាលារៀនបណ្តែតទឹក</p>
+			</td>
+			<td colspan="6">
+			<p>ទេ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>លេខទូរស័ព្ទរបស់នាយក</p>
+			</td>
+			<td colspan="6">
+			<p>089663966</p>
+			</td>
+			<td colspan="14">
+			<p>សាលារៀនទាំងមូលនៅក្នុងវត្ត(សូមគូសរង្វង់)</p>
+			</td>
+			<td colspan="6">
+			<p>ទេ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>សារអេឡិចត្រូនិក(E-mail)</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="6">
+			<p>ចំនួនថ្នាក់រៀននៅក្នុងវត្ត(បើមាន)៖</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>ចំនួនថ្នាក់រៀននៅតាមផ្ទះ(បើមាន)៖</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="13">
+			<p>*នាយកដែលកាន់ការងារគ្រប់គ្រងដឹកនាំសាលារៀនផ្ទាល់</p>
+			</td>
+			<td colspan="14">
+			<p>ចំនួនព្រះសង្ឃដែលជួយបង្រៀននៅក្នុងសាលារៀន</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="13">
+			<p>១.(គ)អ្នកទទួលបន្ទុកគ្រប់គ្រងសាលារៀនឧបសម្ព័ន</p>
+			</td>
+			<td colspan="14">
+			<p>ចំនួនគ្រូក្រៅក្របខណ្ឌទទួលប្រាក់ឧបត្ថមពីសហគមន៍/អង្គការនានា</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ឋានៈអ្នកទទួលបន្ទុក(សូមគូសរង្វង់)</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td rowspan="8">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="14">
+			<p>មានថ្នាក់មត្តេយ្យដែលស្ថិតនៅក្នុងបឋមសិក្សា</p>
+			</td>
+			<td colspan="6">
+			<p>Yes</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ឈ្មោះជាអក្សរខ្មែរ</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="14">
+			<p>ចម្ងាយពីសាលារៀនទៅសាលាឃុំ/សង្កាត់</p>
+			</td>
+			<td colspan="6">
+			<p>0 គីឡូម៉ែត្រ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ឈ្មោះជាអក្សរពុម្ពឡាតាំង</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="14">
+			<p>ចម្ងាយពីសាលារៀនទៅសាលាក្រុង/ស្រុក/ខណ្ឌ</p>
+			</td>
+			<td colspan="6">
+			<p>12 គីឡូម៉ែត្រ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ថ្ងៃខែឆ្នាំកំណើត</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="14">
+			<p>ចម្ងាយពីសាលារៀនទៅសាលារាជធានី/ខេត្ត</p>
+			</td>
+			<td colspan="6">
+			<p>69 គីឡូម៉ែត្រ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ភេទ</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="14">
+			<p>សាលារៀនឧបសម្ព័ន</p>
+			</td>
+			<td colspan="6">
+			<p>ពិតមែន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>កម្រិតវប្បធម៌ខ្ពស់បំផុត</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>កម្រងសាលារៀនឈ្មោះ៖</p>
+			</td>
+			<td colspan="15">
+			<p>ស្ពានស្រែង</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ចំនួនឆ្នាំបម្រើការងារអប់រំ</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="14">
+			<p>ជាសាលារៀនបង្គោល ឬសាលារៀនសម្ព័ន</p>
+			</td>
+			<td colspan="6">
+			<p>សម្ព័ន្ធ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ចំនួនម៉ោងបង្រៀនក្នុងមួយសប្តាហ៍</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="14">
+			<p>បើជាសាលារៀនបង្គោល សូមប្រាប់ចំនួនសាលានៅក្នុងកម្រង</p>
+			</td>
+			<td colspan="6">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២.សិស្ស</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>២.(ក១)សិស្សថ្មី សិស្សឡើងថ្នាក់ និងសិស្សត្រួតថ្នាក់ ក្នុងឆ្នាំសិក្សា ២០២៥-២០២៦</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" rowspan="2">
+			<p>អាយុ(ឆ្នាំ)</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតទាប</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតមធ្យម</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតខ្ពស់</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់ចម្រុះ</p>
+			</td>
+			<td colspan="6">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>3</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>13</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>13</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>4</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>12</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>12</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>5</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>35</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>35</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>៥+</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>35</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>40</p>
+			</td>
+			<td colspan="3">
+			<p>25</p>
+			</td>
+			<td colspan="3">
+			<p>75</p>
+			</td>
+			<td colspan="3">
+			<p>45</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២.(ក២)សិស្សថ្មី សិស្សឡើងថ្នាក់ និងសិស្សត្រួតថ្នាក់ ក្នុងឆ្នាំសិក្សា ២០២៥-២០២៦</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="3">
+			<p>អាយុ(ឆ្នាំ)</p>
+			</td>
+			<td colspan="8">
+			<p>ថ្នាក់ទី ១</p>
+			</td>
+			<td colspan="8">
+			<p>ថ្នាក់ទី ២</p>
+			</td>
+			<td colspan="8">
+			<p>ថ្នាក់ទី ៣</p>
+			</td>
+			<td colspan="8">
+			<p>ថ្នាក់ទី ៤</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>សិស្សថ្មី</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សត្រួតថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សឡើងថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សត្រួតថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សឡើងថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សត្រួតថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សឡើងថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សត្រួតថ្នាក់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>6</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>14</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>7</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>39</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>36</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>44</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>10</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>11</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>12</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>13</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>14</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>១៥+</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>14</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>42</p>
+			</td>
+			<td colspan="2">
+			<p>22</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>41</p>
+			</td>
+			<td colspan="2">
+			<p>22</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>49</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២.(ក២)សិស្សថ្មី សិស្សឡើងថ្នាក់ និងសិស្សត្រួតថ្នាក់ ក្នុងឆ្នាំសិក្សា ២០២៥-២០២៦ (បន្ត)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="3">
+			<p>អាយុ(ឆ្នាំ)</p>
+			</td>
+			<td colspan="8">
+			<p>ថ្នាក់ទី ៥</p>
+			</td>
+			<td colspan="8">
+			<p>ថ្នាក់ទី ៦</p>
+			</td>
+			<td colspan="16">
+			<p>សរុបរួម (ពីថ្នាក់ទី ១ ដល់ទី ៦)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>សិស្សថ្មី</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សត្រួតថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សឡើងថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សត្រួតថ្នាក់</p>
+			</td>
+			<td colspan="8">
+			<p>សិស្សថ្មី/សិស្សឡើងថ្នាក់</p>
+			</td>
+			<td colspan="8">
+			<p>សិស្សត្រួតថ្នាក់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>6</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>30</p>
+			</td>
+			<td colspan="4">
+			<p>14</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>7</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>39</p>
+			</td>
+			<td colspan="4">
+			<p>21</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>39</p>
+			</td>
+			<td colspan="4">
+			<p>22</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>49</p>
+			</td>
+			<td colspan="4">
+			<p>22</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>10</p>
+			</td>
+			<td colspan="2">
+			<p>41</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>45</p>
+			</td>
+			<td colspan="4">
+			<p>22</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>11</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>28</p>
+			</td>
+			<td colspan="2">
+			<p>15</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>38</p>
+			</td>
+			<td colspan="4">
+			<p>18</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>12</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>7</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>7</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>13</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>14</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>១៥+</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>50</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>35</p>
+			</td>
+			<td colspan="2">
+			<p>17</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>247</p>
+			</td>
+			<td colspan="4">
+			<p>121</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២.(ខ១)សិស្សពិការ សិស្សជួបការលំបាកផ្នែកសុខភាព និងសិស្សជួបការលំបាកតាមកម្រិតថ្នាក់(មត្តេយ្យសិក្សា)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>បរិយាយ</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតទាប</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតមធ្យម</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតខ្ពស់</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់ចម្រុះ</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>សិស្សពិការ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សពិការ*</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>5</p>
+			</td>
+			<td colspan="3">
+			<p>1</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ប្រភេទពិការ**</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការធ្វើចលនា</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការស្តាប់</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការនិយាយ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការមើល</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>3</p>
+			</td>
+			<td colspan="3">
+			<p>1</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការសរីរាង្គខាងក្នុង</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការសតិបញ្ញា</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>2</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកខាងផ្លូវចិត្ត</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការផ្សេងៗ (ក្រៅពីខាងលើ)</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការគេ ថ្លង់</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>សិស្សជួបការលំបាកផ្នែកសុខភាព</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនជួបការលំបាកផ្នែកសុខភាព*</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ប្រភេទការលំបាកផ្នែកសុខភាព**</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មានស្ថានភាពអាហារូបត្ថមធ្ងន់ធ្ងរ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មានជម្ងឺប្រចាំកាយ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>សិស្សជួបការលំបាក</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សជួបការលំបាក*</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>12</p>
+			</td>
+			<td colspan="3">
+			<p>7</p>
+			</td>
+			<td colspan="3">
+			<p>8</p>
+			</td>
+			<td colspan="3">
+			<p>7</p>
+			</td>
+			<td colspan="2">
+			<p>12</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ប្រភេទការលំបាក**</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មកពីគ្រួសារផ្លាស់ប្តូរទីលំនៅ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមារកំព្រា</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងគ្រោះដោយHIV/AIDS</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងងំពើហិង្សាក្នុងគ្រួសារ(ផ្លូវកាយ ផ្លូវចិត្ត ផ្លូវភេទ និងការបោះបង់មិនអើពើ)</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងការកេងប្រវ័ញ្ជពលកម្ម</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមារដែលមកពីគ្រួសារក្រីក្រ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>12</p>
+			</td>
+			<td colspan="3">
+			<p>7</p>
+			</td>
+			<td colspan="3">
+			<p>8</p>
+			</td>
+			<td colspan="3">
+			<p>7</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>14</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងពើហិង្សាក្នុងសាលា</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ចំនួនកុមារទទួលបានកិច្ចអន្តរាគមន៍ និងប្រឹក្សាយោបល់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សទទួលបានកិច្ចអន្តរគមន៍របស់សុខាភិបាល</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សទទួលបានកិច្ចគាំពារ និងប្រឹក្សាយោបល់ របស់សុខាភិបាល</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២.(ខ២)សិស្សពិការ សិស្សជួបការលំបាកផ្នែកសុខភាព និងសិស្សជួបការលំបាកតាមកម្រិតថ្នាក់ (បឋមសិក្សា)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>បរិយាយ</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ១</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ២</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៣</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៤</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៥</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៦</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>សិស្សពិការ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សពិការ*</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ប្រភេទពិការ**</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការធ្វើចលនា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការស្តាប់</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការនិយាយ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកក្នុងការមើល</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការសរីរាង្គខាងក្នុង</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការសតិបញ្ញា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិបាកខាងផ្លូវចិត្ត</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការផ្សេងៗ (ក្រៅពីខាងលើ)</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ពិការគេ ថ្លង់</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>សិស្សជួបការលំបាកផ្នែកសុខភាព</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនជួបការលំបាកផ្នែកសុខភាព*</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ប្រភេទការលំបាកផ្នែកសុខភាព**</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មានស្ថានភាពអាហារូបត្ថមធ្ងន់ធ្ងរ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មានជម្ងឺប្រចាំកាយ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>សិស្សជួបការលំបាក</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សជួបការលំបាក*</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>40</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>36</p>
+			</td>
+			<td colspan="2">
+			<p>16</p>
+			</td>
+			<td colspan="2">
+			<p>22</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>148</p>
+			</td>
+			<td colspan="2">
+			<p>54</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ប្រភេទការលំបាក**</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មកពីគ្រួសារផ្លាស់ប្តូរទីលំនៅ</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមារកំព្រា</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>6</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងគ្រោះដោយHIV/AIDS</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងងំពើហិង្សាក្នុងគ្រួសារ(ផ្លូវកាយ ផ្លូវចិត្ត ផ្លូវភេទ និងការបោះបង់មិនអើពើ)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងការកេងប្រវ័ញ្ជពលកម្ម</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមារដែលមកពីគ្រួសារក្រីក្រ</p>
+			</td>
+			<td colspan="2">
+			<p>17</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>39</p>
+			</td>
+			<td colspan="2">
+			<p>19</p>
+			</td>
+			<td colspan="2">
+			<p>36</p>
+			</td>
+			<td colspan="2">
+			<p>16</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>17</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>138</p>
+			</td>
+			<td colspan="2">
+			<p>51</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>កុមាររងពើហិង្សាក្នុងសាលា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ចំនួនកុមារទទួលបានកិច្ចអន្តរាគមន៍ និងប្រឹក្សាយោបល់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សទទួលបានកិច្ចអន្តរគមន៍របស់សុខាភិបាល</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចំនួនសិស្សទទួលបានកិច្ចគាំពារ និងប្រឹក្សាយោបល់ របស់សុខាភិបាល</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>*សំដៅលើចំនួនសិស្សសរុប(ដោយរាប់សិស្សម្នាក់តែម្តងគត់ ទោះបីសិស្សនោះមានពិការភាពច្រើនប្រភេទក៏ដោយ)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>**សំដៅលើចំនួនសិស្សសរុបតាមប្រភេទ(ដោយរាប់សិស្សម្នាក់បានច្រើនដង តាមប្រភេទពិការភាពជាក់ស្តែងរបស់សិស្សនោះ ប្រសិនបើសិស្សម្នាក់នោះមានពិការភាពច្រើនប្រភេទ)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២.(គ១)កុមារតាមក្រុមអាយុ និងគ្រូ(ជនជាតិដើមភាគតិច)(ចំនួនកុមារជនជាតិភាគតិច ក្នុងចំណោមកុមារសរុបទាំងអស់ នៃតារាង ២(ក១)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>ជនជាតិដើមភាគតិច តាមក្រុមអាយុ</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតទាប</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតមធ្យម</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតខ្ពស់</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់ចម្រុះ</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>3</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>4</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>5</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>៥+</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២.(គ២)កុមារតាមក្រុមអាយុ និងគ្រូ(ជនជាតិដើមភាគតិច)(ចំនួនកុមារជនជាតិភាគតិច ក្នុងចំណោមកុមារសរុបទាំងអស់ នៃតារាង ២(ក២))</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>ជនជាតិដើមភាគតិច តាមក្រុមអាយុ</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ១</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ២</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៣</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៤</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៥</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៦</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>សិស្ស (អាយុ ៦-១១)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>សិស្ស (អាយុ ១២+)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>គ្រូបង្រៀន(ជនជាតិដើមភាគតិច)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>គ្រូមិនបង្រៀន(ជនជាតិដើមភាគតិច)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២(ឃ១)ចំនួនកុមាររៀនក្នុងឆ្នាំសិក្សា ២០២៤-២០២៥</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>ចំនួនកុមារ</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតទាប</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតមធ្យម</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់កម្រិតខ្ពស់</p>
+			</td>
+			<td colspan="6">
+			<p>ថ្នាក់ចម្រុះ</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ដើមឆ្នាំ២០២៤-២០២៥</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>42</p>
+			</td>
+			<td colspan="3">
+			<p>18</p>
+			</td>
+			<td colspan="3">
+			<p>30</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>72</p>
+			</td>
+			<td colspan="2">
+			<p>38</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចុងឆ្នាំ ២០២៤-២០២៥</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>42</p>
+			</td>
+			<td colspan="3">
+			<p>18</p>
+			</td>
+			<td colspan="3">
+			<p>30</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>72</p>
+			</td>
+			<td colspan="2">
+			<p>38</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>អាយុ៥ឆ្នាំឆ្លងកាត់តេស្តស្តង់ដារ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>30</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>អាយុ៥ឆ្នាំបញ្ជូនទៅថ្នាក់ទី១</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>30</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>អាយុ៥ឆ្នាំមានការអភិវឌ្ឍផ្នែងទាំង៥បានល្អប្រសើរ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+			<td colspan="3">
+			<p>14</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>14</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>សរុប</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>84</p>
+			</td>
+			<td colspan="3">
+			<p>36</p>
+			</td>
+			<td colspan="3">
+			<p>140</p>
+			</td>
+			<td colspan="3">
+			<p>94</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>224</p>
+			</td>
+			<td colspan="2">
+			<p>130</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២(ឃ២)ចំនួនសិស្ស និងលទ្ធផលប្រឡង ក្នុងឆ្នាំសិក្សា ២០២៤-២០២៥ និងសិស្សអាហារូបករណ៍</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>សិស្ស</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ១</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ២</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៣</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៤</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៥</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៦</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ដើមឆ្នាំសិក្សា២៤-២៥</p>
+			</td>
+			<td colspan="2">
+			<p>39</p>
+			</td>
+			<td colspan="2">
+			<p>19</p>
+			</td>
+			<td colspan="2">
+			<p>40</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>46</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>51</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>34</p>
+			</td>
+			<td colspan="2">
+			<p>16</p>
+			</td>
+			<td colspan="2">
+			<p>31</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>241</p>
+			</td>
+			<td colspan="2">
+			<p>111</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ចុងឆ្នាំសិក្សា២៤-២៥</p>
+			</td>
+			<td colspan="2">
+			<p>42</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>40</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>47</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>49</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>37</p>
+			</td>
+			<td colspan="2">
+			<p>17</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>245</p>
+			</td>
+			<td colspan="2">
+			<p>113</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ត្រូវបានឡើងថ្នាក់ ២៤-២៥</p>
+			</td>
+			<td colspan="2">
+			<p>40</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>40</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>47</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>49</p>
+			</td>
+			<td colspan="2">
+			<p>23</p>
+			</td>
+			<td colspan="2">
+			<p>37</p>
+			</td>
+			<td colspan="2">
+			<p>17</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>213</p>
+			</td>
+			<td colspan="2">
+			<p>104</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ត្រូវបានឆ្លងភូមិសិក្សា២៤-២៥</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ផ្ទេរមកពីសាលាផ្សេង ២៥-២៦</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ផ្ទេរចេញទៅសាលាផ្សេង ២៥-២៦</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មកពីសាលាផ្សេងដែលមិនគ្រប់កម្រិតថ្នាក់២៥-២៦</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>សិស្សអាហារូបករណ៍ឆ្នាំសិក្សាថ្មី</p>
+			</td>
+			<td colspan="2">
+			<p>12</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>25</p>
+			</td>
+			<td colspan="2">
+			<p>17</p>
+			</td>
+			<td colspan="2">
+			<p>17</p>
+			</td>
+			<td colspan="2">
+			<p>12</p>
+			</td>
+			<td colspan="2">
+			<p>28</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>25</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>22</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>129</p>
+			</td>
+			<td colspan="2">
+			<p>50</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="21">
+			<p>២(ង)ចំនួនសិស្សចូលរៀនឡើងវិញ (សិស្សដែលបានបោះបង់ការសិក្សាហើយចូលរៀនវិញ)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" rowspan="2">
+			<p>ចំនួនសិស្ស</p>
+			</td>
+			<td colspan="2">
+			<p>ថ្នាក់ទី ១</p>
+			</td>
+			<td colspan="2">
+			<p>ថ្នាក់ទី ២</p>
+			</td>
+			<td colspan="2">
+			<p>ថ្នាក់ទី ៣</p>
+			</td>
+			<td colspan="2">
+			<p>ថ្នាក់ទី ៤</p>
+			</td>
+			<td colspan="2">
+			<p>ថ្នាក់ទី ៥</p>
+			</td>
+			<td colspan="2">
+			<p>ថ្នាក់ទី ៦</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>សរុប</p>
+			</td>
+			<td>
+			<p>ស្រី</p>
+			</td>
+			<td>
+			<p>សរុប</p>
+			</td>
+			<td>
+			<p>ស្រី</p>
+			</td>
+			<td>
+			<p>សរុប</p>
+			</td>
+			<td>
+			<p>ស្រី</p>
+			</td>
+			<td>
+			<p>សរុប</p>
+			</td>
+			<td>
+			<p>ស្រី</p>
+			</td>
+			<td>
+			<p>សរុប</p>
+			</td>
+			<td>
+			<p>ស្រី</p>
+			</td>
+			<td>
+			<p>សរុប</p>
+			</td>
+			<td>
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+			<p>បានចូលរៀនឡើងវិញ</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+			<p>ក្នុងកម្មវិធីសមមូល</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5">
+			<p>ក្នុងកម្មវិធីពន្លឿន</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="12">
+			<p>២(ច)សិស្សថ្នាក់ទី១ដែលបានឆ្លងកាត់កម្មវិធីកុមារតូច</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" rowspan="2">
+			<p>ប្រភេទ</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សថ្មី</p>
+			</td>
+			<td colspan="4">
+			<p>សិស្សត្រួត</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>មត្តេយ្យរដ្ឋ</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>មត្តេយ្យឯកជន</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>មត្តេយ្យសហគមន័</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>ការអប់រំតាមផ្ទះ/ខ្នងផ្ទះ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>កម្មវិធីត្រៀមថ្នាក់ទី១</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>30</p>
+			</td>
+			<td colspan="2">
+			<p>20</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២(ឆ)ចំនួនសិស្សថ្នាក់គួប តាមវេន(ក្នុងមួយជួរដេកត្រូវបំពេញតែមួយថ្នាក់គួប)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8" rowspan="2">
+			<p>ឈ្មោះគ្រូបង្រៀន</p>
+			</td>
+			<td colspan="2" rowspan="2">
+			<p>វេន</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ១</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ២</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៣</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៤</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៥</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៦</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>២(ជ)លទ្ធផលសិក្សារបស់សិស្សក្នុងឆ្នាំសិក្សា២០២៤-២០២៥</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>លំដាប់និទ្ទេស</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ១</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ២</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៣</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៤</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៥</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ទី ៦</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ល្អប្រសើរ(A)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ល្អណាស់(B)</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>24</p>
+			</td>
+			<td colspan="2">
+			<p>18</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ល្អ (C)</p>
+			</td>
+			<td colspan="2">
+			<p>15</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>19</p>
+			</td>
+			<td colspan="2">
+			<p>10</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>11</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>14</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>76</p>
+			</td>
+			<td colspan="2">
+			<p>41</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ល្អបង្គួរ(D)</p>
+			</td>
+			<td colspan="2">
+			<p>9</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>15</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>6</p>
+			</td>
+			<td colspan="2">
+			<p>21</p>
+			</td>
+			<td colspan="2">
+			<p>10</p>
+			</td>
+			<td colspan="2">
+			<p>18</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>49</p>
+			</td>
+			<td colspan="2">
+			<p>50</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មធ្យម(E)</p>
+			</td>
+			<td colspan="2">
+			<p>11</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>10</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>15</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>8</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>53</p>
+			</td>
+			<td colspan="2">
+			<p>16</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>មិនចាត់ថ្នាក់(F)</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>7</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៣.បន្ទប់ និងថ្នាក់រៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>៣.(ក)បន្ទប់រៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>ចំនួនបន្ទប់ប្រើប្រាស់សម្រាប់បង្រៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+			<p>ចំនួនបន្ទប់</p>
+			</td>
+			<td colspan="4">
+			<p>ចំនួនបន្ទប់សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>មានអគ្គិសនី</p>
+			</td>
+			<td colspan="4">
+			<p>មានអំពូល</p>
+			</td>
+			<td colspan="5">
+			<p>មានកង្ហារ/ម៉ាស៊ីនត្រជាក់</p>
+			</td>
+			<td colspan="8">
+			<p>មានបំពាក់ឧបករណ៍ទំនើប (LCD, Smart TV&hellip;)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+			<p>សម្រាប់មត្តេយ្យសិក្សា</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="8">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+			<p>សម្រាប់បឋមសិក្សា</p>
+			</td>
+			<td colspan="4">
+			<p>10</p>
+			</td>
+			<td colspan="4">
+			<p>10</p>
+			</td>
+			<td colspan="4">
+			<p>7</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="8">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៣.(ខ១)ចំនួនថ្នាក់រៀនមត្តេយ្យសិក្សា</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ចំនួន</p>
+			</td>
+			<td colspan="4">
+			<p>កម្រិតទាប</p>
+			</td>
+			<td colspan="4">
+			<p>កម្រិតមធ្យម</p>
+			</td>
+			<td colspan="4">
+			<p>កម្រិតខ្ពស់</p>
+			</td>
+			<td colspan="4">
+			<p>ថ្នាក់ចម្រុះ</p>
+			</td>
+			<td colspan="4">
+			<p>សរុបរួម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ថ្នាក់រៀន</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>បន្ទប់រៀន</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>គ្រូតាមថ្នាក់</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ថ្នាក់រៀនអវត្តវិធីសាស្ត្ររៀនតាមរយៈការលេង</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៤. បុគ្គលិកបង្រៀន និងបុគ្គលិកមិនបង្រៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>៤.(ក)ចំនួនបុគ្គលិកអប់រំតាមប្រភេទក្របខ័ណ្ឌ(សណន លេខ ២៥៦)</p>
+			</td>
+			<td colspan="16">
+			<p>៤.(ខ)ចំនួនបុគ្គលិកបង្រៀន/មិនបង្រៀនដែលទទួលមុខងារបន្ថែម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="2">
+			<p>ក្របខណ្ឌ</p>
+			</td>
+			<td colspan="8">
+			<p>បុគ្គលិកបង្រៀន</p>
+			</td>
+			<td colspan="8">
+			<p>បុគ្គលិកមិនបង្រៀន</p>
+			</td>
+			<td rowspan="18">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7" rowspan="2">
+			<p>មុខងារ</p>
+			</td>
+			<td colspan="4">
+			<p>ចំនួនបុគ្គលិក</p>
+			</td>
+			<td colspan="4">
+			<p>បានបណ្តុះបណ្តាល</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>ក</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>លេខាធិការ</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>ខ</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>បណ្ណារក្ស(បណ្ណាល័យស្តង់ដា)</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>គ</p>
+			</td>
+			<td colspan="4">
+			<p>12</p>
+			</td>
+			<td colspan="4">
+			<p>11</p>
+			</td>
+			<td colspan="4">
+			<p>5</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូទទូលបន្ទុកកីឡា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>12</p>
+			</td>
+			<td colspan="4">
+			<p>11</p>
+			</td>
+			<td colspan="4">
+			<p>5</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូទទួលបន្ទុកICT</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>៤.(គ)ចំនួនបុគ្គលិកបង្រៀនពីវេន និងថ្នាក់គួប</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូទទូលបន្ទុកគណនេយ្យ និងបេឡា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" rowspan="2">
+			<p>បរិយាយ</p>
+			</td>
+			<td colspan="4">
+			<p>បង្រៀនពីរវេន</p>
+			</td>
+			<td colspan="8">
+			<p>បង្រៀនថ្នាក់គួប</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូទទូលបន្ទុកបន្ទប់ពិសោធន៍</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូទទូលបន្ទុកការងារយុវជន</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>គ្រូក្របខ័ណ្ឌ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូបំណិនជីវិត</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>គ្រូក្របខ័ណ្ឌមកពីរកន្លែងផ្សេងកំពុងជួយបង្រៀន</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូទទូលបន្ទុកសុខភាពសិក្សា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>គ្រូជាប់កិច្ចសន្យាកំពុងជួយបង្រៀន</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>គ្រូទទូលបន្ទុកកិច្ចការពារកុមារ</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបុគ្គលិកមានពិការភាព</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="7">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបុគ្គលិកបង្រៀនដែលខ្វះ</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="15" rowspan="5">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបុគ្គលិកបង្រៀនដែលលើស</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបុគ្គលិកដែលបានបណ្តុះបណ្តាលថ្នាក់បរិយាបន្ន</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបុគ្គលិកដែលបានធ្វើបច្ចុប្បន្នកម្មកិច្ចតែងការបង្រៀនត្រឹមត្រូវ និងអនុវត្តទៀងទាត់</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបុគ្គលិកបង្រៀននៅមត្តេយ្យសិក្សាដែលបានឆ្លងការបណ្តុះបណ្តាលពីសាលាគរុកោសល្យមត្តេយ្យមជ្ឈឹម</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី៖</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៤.(ឃ)បុគ្គលិកបង្រៀនផ្សេងៗ ដែលបានទទួលការបណ្តុះបណ្តាល និងមិនបានទទួលការបណ្តុះបណ្តាល</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10" rowspan="2">
+			<p>បរិយាយ</p>
+			</td>
+			<td colspan="8">
+			<p>បានបណ្តុះបណ្តាល</p>
+			</td>
+			<td colspan="8">
+			<p>មិនបានបណ្តុះបណ្តាល</p>
+			</td>
+			<td colspan="8">
+			<p>បានបណ្តុះបណ្តាលប៉ុន្តែមិនបង្រៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="4">
+			<p>សរុប</p>
+			</td>
+			<td colspan="4">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បុគ្គលិកក្របខ័ណ្ឌ</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>5</p>
+			</td>
+			<td colspan="4">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>គ្រូបង្រៀនថ្នាក់គួប</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>គ្រូបង្រៀនជាប់កិច្ចសន្យា</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បុគ្គលិកពិការភាព</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បុគ្គលិកដែលមានវិធីសាស្ត្រដាក់ពិន័យតាមបែបវិជ្ជមាន</p>
+			</td>
+			<td colspan="4">
+			<p>12</p>
+			</td>
+			<td colspan="4">
+			<p>11</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>គ្រូបង្រៀនពហុភាសា(ភាសាជនជាតិភាគតិច)</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៤.(ង) កម្រិតវប្បធម៌របស់បុគ្គលិកក្របខ័ណ្ឌ និងវគ្គបណ្តុះបណ្តាលគរុកោសល្យ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7" rowspan="2">
+			<p>កម្រិតវប្បធម៌/ជំនាញ</p>
+			</td>
+			<td colspan="13">
+			<p>បុគ្គលិកបង្រៀន</p>
+			</td>
+			<td colspan="14">
+			<p>បុគ្គលិកមិនបង្រៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="9">
+			<p>មិនបានបណ្តុះបណ្តាលគរុកោសល្យ</p>
+			</td>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+			<td colspan="10">
+			<p>មិនបានបណ្តុះបណ្តាលគរុកោសល្យ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ក្នុងបឋមសិក្សា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>វិញ្ញាបនបត្របឋមសិក្សា</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ក្នុងមធ្យមសិក្សាបឋមភូមិ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>សញ្ញាបត្រមធ្យមសិក្សាបឋមភូមិ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ក្នុងមធ្យមសិក្សាទុតិយភូមិ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>សញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ</p>
+			</td>
+			<td colspan="2">
+			<p>6</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>ក្នុងមហារវិទ្យាល័យ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>បរិញ្ញាបត្រ</p>
+			</td>
+			<td colspan="2">
+			<p>6</p>
+			</td>
+			<td colspan="2">
+			<p>6</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>បរិញ្ញាបត្រជាន់ខ្ពស់(អនុបណ្ឌិត)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>សញ្ញាបត្របណ្ឌិត</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>12</p>
+			</td>
+			<td colspan="2">
+			<p>11</p>
+			</td>
+			<td colspan="9">
+			<p>0</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="10">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.អគារ និងបរិក្ខា</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ក)ស្ថានភាពអគារ បន្ទប់ និងបរិក្ខារ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8" rowspan="2">
+			<p>ប្រភេទសំណង់</p>
+			</td>
+			<td colspan="4">
+			<p>ចំនួន</p>
+			</td>
+			<td colspan="10">
+			<p>ចំនួនបន្ទប់ដែលគ្មាន</p>
+			</td>
+			<td colspan="6">
+			<p>អគារសាងសង់ថ្មី</p>
+			</td>
+			<td colspan="6">
+			<p>អគារជួសជុលថ្មី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>អគារ</p>
+			</td>
+			<td colspan="2">
+			<p>បន្ទប់</p>
+			</td>
+			<td colspan="2">
+			<p>កម្រាលល្អ</p>
+			</td>
+			<td colspan="2">
+			<p>ដំបូលល្អ</p>
+			</td>
+			<td colspan="2">
+			<p>ជញ្ជាំងល្អ</p>
+			</td>
+			<td colspan="2">
+			<p>បង្អួចល្អ</p>
+			</td>
+			<td colspan="2">
+			<p>ទ្វារល្អ</p>
+			</td>
+			<td colspan="3">
+			<p>ចំនួនអគារ</p>
+			</td>
+			<td colspan="3">
+			<p>ចំនួនបន្ទប់</p>
+			</td>
+			<td colspan="3">
+			<p>ចំនួនអគារ</p>
+			</td>
+			<td colspan="3">
+			<p>ចំនួនបន្ទប់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>ធ្វើអំពីឥដ្ឋ / ស៊ីម៉ង់ត៍ (ថ្ម)</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>15</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="3">
+			<p>1</p>
+			</td>
+			<td colspan="3">
+			<p>2</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>ធ្វើអំពីឈើ (ឈើ/ដែក)</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>ធ្វើអំពីឫស្សី / កូនឈើ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="8">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+			<td colspan="2">
+			<p>15</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="2">
+			<p>3</p>
+			</td>
+			<td colspan="3">
+			<p>1</p>
+			</td>
+			<td colspan="3">
+			<p>2</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+			<td colspan="3">
+			<p>0</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បន្ទប់ដោយឡែកសម្រាប់</p>
+			</td>
+			<td colspan="6">
+			<p>ស្ថានភាព</p>
+			</td>
+			<td colspan="2" rowspan="8">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>បន្ទប់ដោយឡែកសម្រាប់</p>
+			</td>
+			<td colspan="6">
+			<p>ស្ថានភាព</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ទីចាត់ការ</p>
+			</td>
+			<td colspan="6">
+			<p>ល្អ</p>
+			</td>
+			<td colspan="10">
+			<p>បន្ទប់ថែទាំសុខភាព</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បណ្ណាល័យ</p>
+			</td>
+			<td colspan="6">
+			<p>ល្អ</p>
+			</td>
+			<td colspan="10">
+			<p>អន្តេវាសិកដ្ឋាន</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បន្ទប់អប់រំបំណិនជីវិត</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+			<td colspan="10">
+			<p>បន្ទប់/ផ្ទះគ្រូស្នាក់នៅ</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>មជ្ឍមណ្ឌលធនធាន</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+			<td colspan="10">
+			<p>រោងបាយ</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បន្ទប់រោងជាង</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+			<td colspan="10">
+			<p>បន្ទប់ផ្សេងទៀត</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បន្ទប់កុំព្យូទ័រ</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+			<td colspan="10">
+			<p>ទីជម្រាលសម្រាប់កុមារ/គ្រូពិការ</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="16">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="10">
+			<p>សួនកសិកម្ម(ជីវចម្រុះ)</p>
+			</td>
+			<td colspan="6">
+			<p>មិនទាន់មាន</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="14">
+			<p>៥.(ខ)ចំនួនបរិក្ខារ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>បរិក្ខារ</p>
+			</td>
+			<td colspan="3">
+			<p>ចំនួន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>តុសិស្សអង្គុយម្នាក់ៗ</p>
+			</td>
+			<td colspan="3">
+			<p>20</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>តុសិស្សអង្គុយពីរនាក់</p>
+			</td>
+			<td colspan="3">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>កៅអី/កៅអីវែងសម្រាប់សិស្សអង្គុយច្រើននាក់</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>កៅអីសម្រាប់គ្រូ</p>
+			</td>
+			<td colspan="3">
+			<p>9</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>តុសម្រាប់គ្រូ</p>
+			</td>
+			<td colspan="3">
+			<p>9</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>ក្តារខៀន</p>
+			</td>
+			<td colspan="3">
+			<p>17</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="19">
+			<p>៥(គ) ផ្ទៃដីសាលារៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ប្រភេទ</p>
+			</td>
+			<td colspan="3">
+			<p>បណ្តោយ</p>
+			</td>
+			<td colspan="3">
+			<p>ទទឹង</p>
+			</td>
+			<td colspan="3">
+			<p>(គិតជាម២)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ផ្ទៃដីសរុបជាកម្មសិទ្ធរបស់សាលារៀន</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>14,400</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>-ទីធ្លាសាលារៀន(សម្រាប់រត់លេង និងកីឡា)</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>3,900</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>-ផ្ទៃក្រឡាបន្ទប់រៀន</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>630</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>-ផ្ទៃដីនៅសល់សម្រាប់សាងសង់</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>9,770</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>-ផ្ទៃក្រឡាសួនច្បារ ឬសួនបន្លែ</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>100</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ឃ)កន្លែងលាងដៃ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បរិយាយ</p>
+			</td>
+			<td colspan="11">
+			<p>អត្ថិភាព</p>
+			</td>
+			<td colspan="13">
+			<p>ស្ថានភាពទូទៅ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>កន្លែងលាងសម្អាតដៃ (អាចប្រើបានបន្ទាប់ពីប្រើបង្គន់)</p>
+			</td>
+			<td colspan="11">
+			<p>មាន</p>
+			</td>
+			<td colspan="13">
+			<p>មានសាប៊ូនិងទឹកថ្ងៃនេះ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>កន្លែងលាង សម្អាតដៃ</p>
+			</td>
+			<td colspan="11">
+			<p>មាន(សម្រាប់លាងជាក្រុម)</p>
+			</td>
+			<td colspan="13">
+			<p>មានសាប៊ូនិងទឹកថ្ងៃនេះ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ការគ្រប់គ្រងអនាម័យ ពេលមានរដូវ</p>
+			</td>
+			<td colspan="11">
+			<p>មាន</p>
+			</td>
+			<td colspan="13">
+			<p>មានធុងសំរាមនៅបង្គន់ស្ត្រី</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ង)បង្គន់អនាម័យ(គិតជាបន្ទប់)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10" rowspan="2">
+			<p>ប្រភេទ</p>
+			</td>
+			<td colspan="24">
+			<p>បង្គន់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<p>គ្រូប្រុស</p>
+			</td>
+			<td colspan="3">
+			<p>គ្រូស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>គ្រូរួម</p>
+			</td>
+			<td colspan="3">
+			<p>សិស្សប្រុស</p>
+			</td>
+			<td colspan="3">
+			<p>សិស្សស្រី</p>
+			</td>
+			<td colspan="3">
+			<p>សិស្សរួម</p>
+			</td>
+			<td colspan="3">
+			<p>រួម</p>
+			</td>
+			<td colspan="3">
+			<p>សិស្សពិការ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបង្គន់អនាម័យចាក់ទឹក/ចុចបង្ហូរទឹកសរុប</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>5</p>
+			</td>
+			<td colspan="3">
+			<p>4</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបង្គន់អនាម័យចាក់ទឹក/ ចុចបង្ហូរទឹកដែលអាចប្រើបានមានទឹក</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>6</p>
+			</td>
+			<td colspan="3">
+			<p>4</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនបង្គន់អនាម័យផ្សេងទៀត</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ចំនួនកន្លែងនោមសិស្សប្រុស</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ច)ប្រភពទឹកសម្រាប់ប្រើប្រាស់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ប្រភពទឹកចម្បង</p>
+			</td>
+			<td colspan="5">
+			<p>ប្រើសម្រាប់ផឹក</p>
+			</td>
+			<td colspan="11">
+			<p>អាចរកបាននៅថ្ងៃនេះនៅបរិវេណសាលារៀន</p>
+			</td>
+			<td colspan="8">
+			<p>ប្រើសម្រាប់គោលបំណងផ្សេង</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>បណ្តាញទុយោ</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="11">
+			<p>អាច</p>
+			</td>
+			<td colspan="8">
+			<p>បាទ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>អណ្តូងស្នប់/អណ្តូងខួង</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="11">
+			<p>អាច</p>
+			</td>
+			<td colspan="8">
+			<p>បាទ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>អណ្តូងជីក/ទឹកផុសចេញពីក្រោមមានការការពារ</p>
+			</td>
+			<td colspan="5">
+			<p>មិនមាន</p>
+			</td>
+			<td colspan="11">
+			<p>មិនអាច</p>
+			</td>
+			<td colspan="8">
+			<p>ទេ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ទឹកភ្លៀង</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="11">
+			<p>អាច</p>
+			</td>
+			<td colspan="8">
+			<p>បាទ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ទឹកពិសាដប</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="11">
+			<p>អាច</p>
+			</td>
+			<td colspan="8">
+			<p>បាទ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ទឹកទិញដឹកដោយឡានស៊ីទែន/រទេះរុញ</p>
+			</td>
+			<td colspan="5">
+			<p>មិនមាន</p>
+			</td>
+			<td colspan="11">
+			<p>មិនអាច</p>
+			</td>
+			<td colspan="8">
+			<p>ទេ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>អណ្តូងជីក/ទឹកផុសចេញពីក្រោមមិនមានការការពារ</p>
+			</td>
+			<td colspan="5">
+			<p>មិនមាន</p>
+			</td>
+			<td colspan="11">
+			<p>មិនអាច</p>
+			</td>
+			<td colspan="8">
+			<p>ទេ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="10">
+			<p>ទឹកបឹង/ស្រះ/ទន្លេ/ព្រែក/អូរ/ស្ទឹង</p>
+			</td>
+			<td colspan="5">
+			<p>មិនមាន</p>
+			</td>
+			<td colspan="11">
+			<p>មិនអាច</p>
+			</td>
+			<td colspan="8">
+			<p>ទេ</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ឆ)សម្ភារបរិក្ខា</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>អគ្គិសនី</p>
+			</td>
+			<td colspan="3">
+			<p>អត្ថិភាព</p>
+			</td>
+			<td colspan="9">
+			<p>កុំព្យូទ័រ</p>
+			</td>
+			<td colspan="2">
+			<p>ចំនួន</p>
+			</td>
+			<td colspan="4">
+			<p>សម្ភារបរិក្ខា</p>
+			</td>
+			<td colspan="2">
+			<p>ចំនួន</p>
+			</td>
+			<td colspan="6">
+			<p>សម្ភារបរិក្ខា</p>
+			</td>
+			<td colspan="2">
+			<p>ចំនួន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>បណ្តាញអគ្គិសនី</p>
+			</td>
+			<td colspan="3">
+			<p>ឯកជន</p>
+			</td>
+			<td colspan="9">
+			<p>កុំព្យូទ័រសរុប</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="4">
+			<p>ម៉ាស៊ីនបោះពុម្ភ</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="6">
+			<p>ម៉ាស៊ីនបញ្ចាំងLCD</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ថាមពលប្រើពន្លឺព្រះអាទិត្យ</p>
+			</td>
+			<td colspan="3">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="9">
+			<p>កុំព្យូទ័រប្រើប្រាស់បាន</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="4">
+			<p>ម៉ាស៊ីនថតចម្លង</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="6">
+			<p>ផ្ទាំងក្រណាត់បញ្ចាំងស្លាយ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6">
+			<p>ម៉ាស៊ីនភ្លើង</p>
+			</td>
+			<td colspan="3">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="9">
+			<p>កុំព្យូទ័រប្រើប្រាស់សម្រាប់ការិយាល័យ</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="4">
+			<p>ម៉ាស៊ីនscanner</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="6">
+			<p>ប្រអប់សង្គ្រោះបឋម</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="9">
+			<p>កុំព្យូទ័រប្រើប្រាស់សម្រាប់ការបង្រៀន និងរៀន</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="4">
+			<p>ម៉ាស៊ីនដេរ</p>
+			</td>
+			<td colspan="2">
+			<p>0</p>
+			</td>
+			<td colspan="6">
+			<p>ខ្សែរបណ្តាញInternet</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ជ)ខ្សែសេវា អ៊ីនធើណេតសម្រាប់សាលារៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>សេវា Internet</p>
+			</td>
+			<td colspan="8">
+			<p>ស្ថានភាព</p>
+			</td>
+			<td colspan="8">
+			<p>ល្បឿន(Internet Speed)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>សេវា Internet WIFI</p>
+			</td>
+			<td colspan="8">
+			<p>មាន</p>
+			</td>
+			<td colspan="8">
+			<p>មធ្យម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>Mobile Phone Hotspot</p>
+			</td>
+			<td colspan="8">
+			<p>មាន</p>
+			</td>
+			<td colspan="8">
+			<p>មធ្យម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>អ៊ីនធើណេតតាមបន្ទប់សម្រាប់ការរៀន និងបង្រៀន</p>
+			</td>
+			<td colspan="8">
+			<p>មាន</p>
+			</td>
+			<td colspan="8">
+			<p>មធ្យម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>អ៊ីនធើណេតសម្រាប់ការងាររដ្ឋបាលគ្រូ</p>
+			</td>
+			<td colspan="8">
+			<p>មាន</p>
+			</td>
+			<td colspan="8">
+			<p>មធ្យម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="18">
+			<p>អ៊ីនធើណេតសម្រាប់បណ្ណាល័យ និងបន្ទប់ពិសោធន៍</p>
+			</td>
+			<td colspan="8">
+			<p>មាន</p>
+			</td>
+			<td colspan="8">
+			<p>មធ្យម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ប្រភេទសេវាអ៊ីនធើណេត</p>
+			</td>
+			<td colspan="20">
+			<p>Fixed Wrieless</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>អ្នកទទួលបន្ទុកគ្រប់គ្រងសេវាអ៊ីនធើណេត</p>
+			</td>
+			<td colspan="20">
+			<p>រដ្ឋបាលសាលារៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>អគ្គិសនីសម្រាប់ការរៀន និងបង្រៀន</p>
+			</td>
+			<td colspan="20">
+			<p>គ្មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ថ្លៃចំណាយអគ្គិសនីប្រចាំខែ</p>
+			</td>
+			<td colspan="20">
+			<p>50,000 រៀល</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ឈ)ល្បែង និងសម្ភារសិក្សា(សម្រាប់មត្តេយ្យសិក្សា)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ប្រភេទ</p>
+			</td>
+			<td colspan="5">
+			<p>កម្រិតទាប</p>
+			</td>
+			<td colspan="5">
+			<p>កម្រិតមធ្យម</p>
+			</td>
+			<td colspan="5">
+			<p>កម្រិតខ្ពស់</p>
+			</td>
+			<td colspan="5">
+			<p>សរុបរួម</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ឯកសារបង្រៀន</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>សម្ភារបង្រៀន</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ល្បែងលេងក្នុងថ្នាក់</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>សម្ភារបង្រៀន និងរៀនមានគ្រប់គ្រាន់</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+			<td colspan="5">
+			<p>មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>កម្មវិធីទស្សនកិច្ចសិក្សាកុមារអាយុ៥ឆ្នាំ</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="5">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="5">
+			<p>គ្មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ឯកសារសកម្មភាពសិស្សម្នាក់ៗ</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="5">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="5">
+			<p>គ្មាន</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៥.(ញ)សម្ភារកីឡា(សម្រាប់ឋមសិក្សា)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>ប្រភេទ</p>
+			</td>
+			<td colspan="4">
+			<p>ទីធ្លា</p>
+			</td>
+			<td colspan="4">
+			<p>សម្ភារៈ</p>
+			</td>
+			<td colspan="4">
+			<p>ក្រុមកីឡា</p>
+			</td>
+			<td colspan="2" rowspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="4">
+			<p>ប្រភេទ</p>
+			</td>
+			<td colspan="4">
+			<p>ទីធ្លា</p>
+			</td>
+			<td colspan="4">
+			<p>សម្ភារៈ</p>
+			</td>
+			<td colspan="4">
+			<p>ក្រុមកីឡា</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>បាល់ទះ</p>
+			</td>
+			<td colspan="4">
+			<p>មាន</p>
+			</td>
+			<td colspan="4">
+			<p>មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>ចោលដុំដែក</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>បាល់ទាត់</p>
+			</td>
+			<td colspan="4">
+			<p>មាន</p>
+			</td>
+			<td colspan="4">
+			<p>មាន</p>
+			</td>
+			<td colspan="4">
+			<p>មាន</p>
+			</td>
+			<td colspan="4">
+			<p>លោតកម្ពស់</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>បាល់បោះ</p>
+			</td>
+			<td colspan="4">
+			<p>មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>លោកចម្ងាយ</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+			<p>ឡើងខ្សែពួរ</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>រត់ចម្ងាយ</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="4">
+			<p>គ្មាន</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៦.ការចូលរួមរបស់សហគមន៍</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="34">
+			<p>៦.(ក)គណៈកម្មការគ្រប់គ្រងសាលារៀន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14" rowspan="2">
+			<p>បរិយាយ</p>
+			</td>
+			<td colspan="3" rowspan="2">
+			<p>អត្ថិភាព</p>
+			</td>
+			<td colspan="4">
+			<p>ចំនួនសមាជិក</p>
+			</td>
+			<td colspan="13" rowspan="2">
+			<p>សរុបចំនួនដងនៃការ</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>សរុប</p>
+			</td>
+			<td colspan="2">
+			<p>ស្រី</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ចំនួនគណៈកម្មការគ្រប់គ្រងសាលារៀន</p>
+			</td>
+			<td colspan="3">
+			<p>មាន</p>
+			</td>
+			<td colspan="2">
+			<p>11</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="11">
+			<p>ប្រជុំឆ្នាំកន្លង</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>សហគមន៍បានចូលរួមជួយគាំទ្រ មូលនិធិដំណើរការសាលារៀន</p>
+			</td>
+			<td colspan="3">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="11">
+			<p>ចូលរួមគាំទ្រ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>ចំនួននាយក នាយករងបានទទួលការហ្វឹកហាត់កម្មវិធីគ្រប់គ្រងសាលារៀនគំរូ</p>
+			</td>
+			<td colspan="3">
+			<p>មាន</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="2">
+			<p>1</p>
+			</td>
+			<td colspan="11">
+			<p>ចូលរួហ្វឹកហាត់</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>សាលារៀនបានទទួលការចុះពិនិត្យតាមដាន និងផ្តល់ការគាំទ្រ ពីថ្នាក់ជាតិ</p>
+			</td>
+			<td colspan="3">
+			<p>មាន</p>
+			</td>
+			<td colspan="2">
+			<p>5</p>
+			</td>
+			<td colspan="2">
+			<p>2</p>
+			</td>
+			<td colspan="11">
+			<p>ពិនិត្យតាមដាន និងគាំទ្រពីថ្នាក់ជាតិ</p>
+			</td>
+			<td colspan="2">
+			<p>4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="14">
+			<p>សាលារៀនបានទទួលការចុះពិនិត្យតាមដាន និងផ្តល់ការគាំទ្រពីថ្នាក់ក្រោមជាតិ</p>
+			</td>
+			<td colspan="3">
+			<p>គ្មាន</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="11">
+			<p>ពិនិត្យតាមដាន និងគាំទ្រពីថ្នាក់ក្រោមជាតិ</p>
+			</td>
+			<td colspan="2">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="21">
+			<p>បរិយាយ</p>
+			</td>
+			<td colspan="13">
+			<p>អត្ថិភាព</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="21">
+			<p>ការរៀបចំផែនការសាលារៀនបានត្រឹមត្រូវ</p>
+			</td>
+			<td colspan="13">
+			<p>មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="21">
+			<p>សាលារៀនមានផែនការយុទ្ធសាស្ត្រអភិវឌ្ឍ ៥ឆ្នាំ</p>
+			</td>
+			<td colspan="13">
+			<p>មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="21">
+			<p>សាលារៀនរៀបចំផែនការយុទ្ធសាស្ត្រថវិកា ៣ឆ្នាំ</p>
+			</td>
+			<td colspan="13">
+			<p>មាន</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="21">
+			<p>សាលារៀនរៀបចំផែនកាប្រតិបត្តិប្រចាំឆ្នាំ និងផែនការថវិកាប្រចាំឆ្នាំ</p>
+			</td>
+			<td colspan="13">
+			<p>មាន</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="34">
+			<p>៦.(ខ)ហិរញ្ញប្បទានក្នុងឆ្នាំ ២០២៥</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>ប្រភេទ</p>
+			</td>
+			<td colspan="5">
+			<p>ទទួលជាប្រាក់រៀល</p>
+			</td>
+			<td rowspan="9">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="17">
+			<p>៧.ការចែកចាយថ្នាំព្រូនក្នុងឆ្នាំ ២០២៤-២០២៥</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>ថវិការ PB 2025</p>
+			</td>
+			<td colspan="5">
+			<p>12,052,800 រៀល</p>
+			</td>
+			<td colspan="5" rowspan="2">
+			<p>បានទទួលថ្នាំព្រូន</p>
+			</td>
+			<td colspan="6">
+			<p>ប៉ុន្មានគ្រាប់ក្នុងមួយលើក</p>
+			</td>
+			<td colspan="6">
+			<p>ចំនួនសិស្សបានទទួល</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>ថវិការដ្ឋាភិបាលសម្រាប់សាងសង់</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="3">
+			<p>លើកទី១</p>
+			</td>
+			<td colspan="3">
+			<p>លើកទី២</p>
+			</td>
+			<td colspan="3">
+			<p>លើកទី១</p>
+			</td>
+			<td colspan="3">
+			<p>លើកទី២</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>ចំណូលផលិតកម្មសាលា</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="5">
+			<p>បាន</p>
+			</td>
+			<td colspan="3">
+			<p>250 គ្រាប់</p>
+			</td>
+			<td colspan="3">
+			<p>250 គ្រាប់</p>
+			</td>
+			<td colspan="3">
+			<p>250 នាក់</p>
+			</td>
+			<td colspan="3">
+			<p>250 នាក់</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>អំណោយពីសហគមន៍/សប្បុរសជនក្នុងប្រទេស</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="17" rowspan="5">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>អំណោយពីសប្បុរសជនក្រៅប្រទេស</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>អំណោយពីអង្គការជាតិ និងអង្គការមិនមែនរដ្ឋាភិបាល</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>បុណ្យផ្សេងៗ</p>
+			</td>
+			<td colspan="5">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="11">
+			<p>សរុប</p>
+			</td>
+			<td colspan="5">
+			<p>12,052,800 រៀល</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
